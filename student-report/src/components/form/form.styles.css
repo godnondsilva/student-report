@@ -1,0 +1,12 @@
+input {
+    width: 600px;
+}
+
+textarea {
+    height: 200px;
+    width: 600px;
+}
+
+.select {
+    width: 600px;
+}
